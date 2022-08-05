@@ -37,11 +37,11 @@ Para a devida realização desta Spring 4, devemos ter os seguintes softwares in
 
 **-**[**Git**](https://git-scm.com/downloads)
 
-Para execução 
+
 Para a realização do projeto da calculadora foi utilizado [**Mocha**](https://mochajs.org/) e [**Chai**](https://www.chaijs.com/).
 Estas bibliotecas podem ser instaladas através do **Terminal** do VS Code passando os seguintes parâmetros: 
-
 
 ```
 npm i -D mocha chai
 ```
+![Instalação Mocha e Chai](https://user-images.githubusercontent.com/64226050/182980264-05d9a5ba-993e-44f7-a7f7-8df9606ad006.png)
