@@ -47,4 +47,11 @@ npm i -D mocha chai
 ![Instalação Mocha e Chai](https://user-images.githubusercontent.com/64226050/182980264-05d9a5ba-993e-44f7-a7f7-8df9606ad006.png)
 
 
-add
+Para a execução dos Mini Projetos utilizamos uma extensão do VS Code na qual nos permite rodar o código através do browser.
+Para isso é nescessario a instalaçao da extensão **Code Runner**. 
+
+Basta apertar **Ctrl + Shift + L** como na imagem abaixo e instalar
+
+![Instalação Code Runner](https://user-images.githubusercontent.com/64226050/182980198-b6b84ea6-ea7e-4012-9e60-53eab0817821.png)
+
+
