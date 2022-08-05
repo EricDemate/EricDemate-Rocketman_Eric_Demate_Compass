@@ -21,7 +21,11 @@ describe('Teste de Soma', () => {
         let resultado = Calculadora.soma(2.4, 5.8)
         expect(resultado).to.be.equal(8.2)
     })
-    it('5- Deve somar 6 e 4 NÃO resultando em 11', () => {
+    it('5- Deve somar .4 e 8 resultando em 12', () => {
+        let resultado = Calculadora.soma(.4, 8)
+        expect(resultado).to.be.equal(12)
+    })
+    it('6- Deve somar 6 e 4 NÃO resultando em 11', () => {
         let resultado = Calculadora.soma(6, 4)
         expect(resultado).and.not.equals(11)
     })
@@ -113,7 +117,10 @@ describe('Teste de Função Exponencial', () => {
         let resultado = Calculadora.expow(6.4, 3)
         expect(resultado).to.be.equal(262.14)
     })
-
+    it('5- Deve ter base 7 elevada à potência ,2 resultando em 49', () => {
+        let resultado = Calculadora.expow(6, .2)
+        expect(resultado).to.be.equal(49)
+    })
 })
 
 describe('Teste de Função Percentil', () => {

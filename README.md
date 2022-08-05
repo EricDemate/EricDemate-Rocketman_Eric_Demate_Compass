@@ -9,7 +9,7 @@ Meu nome é Eric e neste repositório abordaremos o conteúdo da Sprint 4 Compas
 
 # Sobre este Projeto:
 Este projeto é composto por 14 mini códigos e um projeto final de testes de funcionalidades em uma calculadora escritas em javascript.
-Porem para realizar todos estes Mini Projetos, nesta sprint obtivemos maiores conhecimentos sobre as ferramentas de git, GitHub, VS Code, formatação de arquivo readMe.md,  
+Porem para realizar todos estes Mini Projetos, nesta sprint obtivemos maiores conhecimentos sobre as ferramentas de git, GitHub, VS Code, formatação de arquivo readMe.md e TDD com Mocha e Chai,  
 
 ```
 1- Trocando Valores de Variáveis
@@ -75,7 +75,7 @@ Foi utilizado como referência para realizar esta Sprint os seguintes materiais:
 
 
 ---
-
+<br>
 
 
 **<font color="red"> IMPORTANTE! ==> Informações adicionais de como executar os projetos estarão separadas em README.md na pasta Raiz do Projeto! </font>**
