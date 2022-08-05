@@ -8,7 +8,7 @@ Meu nome é Eric e neste repositório abordaremos o conteúdo da Sprint 4 Compas
 
 
 # Sobre este Projeto:
-Este projeto é composto por 14 mini códigos e 1 projeto final de testes de funcionalidades de uma calculadora.
+Este projeto é composto por 14 mini códigos e um projeto final de testes de funcionalidades de uma calculadora escritos em javascript.
 Porem para realizar todos estes Mini Projetos, nesta sprint obtivemos maiores conhecimentos sobre as ferramentas de git, GitHub, VS Code, formatação de arquivo readMe.md,  
 
 ```
@@ -49,7 +49,7 @@ npm i -D mocha chai
 ![Instalação Mocha e Chai](https://user-images.githubusercontent.com/64226050/182980264-05d9a5ba-993e-44f7-a7f7-8df9606ad006.png)
 
 
-Para a execução dos Mini Projetos utilizamos uma extensão do VS Code na qual nos permite rodar o código através do browser.
+Para a execução dos Mini Projetos utilizamos uma extensão do VS Code na qual nos permite rodar o código através proprio VS code ou instalando a extensão **Live Server** que executa o codigo em um Browser.
 Para isso é nescessario a instalaçao da extensão **Code Runner**. 
 
 Basta apertar **Ctrl + Shift + L** como na imagem abaixo e instalar
